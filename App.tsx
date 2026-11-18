@@ -31,6 +31,7 @@ function AppContent() {
       <NewAppScreen
         templateFileName="App.tsx"
         safeAreaInsets={safeAreaInsets}
+        
       />
     </View>
   );
